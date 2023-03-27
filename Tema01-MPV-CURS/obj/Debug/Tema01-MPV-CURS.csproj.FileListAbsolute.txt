@@ -1,0 +1,10 @@
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\bin\Debug\Tema01-MPV-CURS.exe.config
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\bin\Debug\Tema01-MPV-CURS.exe
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\bin\Debug\Tema01-MPV-CURS.pdb
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01-MPV-CURS.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01_MPV_CURS.Form1.resources
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01_MPV_CURS.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01-MPV-CURS.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01-MPV-CURS.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01-MPV-CURS.exe
+C:\Users\Andrei\source\repos\Tema01-MPV-CURS\obj\Debug\Tema01-MPV-CURS.pdb

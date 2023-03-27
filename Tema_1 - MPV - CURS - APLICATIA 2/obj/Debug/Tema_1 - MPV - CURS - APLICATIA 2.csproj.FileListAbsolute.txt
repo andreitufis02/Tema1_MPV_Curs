@@ -1,0 +1,10 @@
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\bin\Debug\Tema_1 - MPV - CURS - APLICATIA 2.exe.config
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\bin\Debug\Tema_1 - MPV - CURS - APLICATIA 2.exe
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\bin\Debug\Tema_1 - MPV - CURS - APLICATIA 2.pdb
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1 - MPV - CURS - APLICATIA 2.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1___MPV___CURS___APLICATIA_2.Form1.resources
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1___MPV___CURS___APLICATIA_2.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1 - MPV - CURS - APLICATIA 2.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1 - MPV - CURS - APLICATIA 2.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1 - MPV - CURS - APLICATIA 2.exe
+C:\Users\Andrei\source\repos\Tema_1 - MPV - CURS - APLICATIA 2\obj\Debug\Tema_1 - MPV - CURS - APLICATIA 2.pdb
