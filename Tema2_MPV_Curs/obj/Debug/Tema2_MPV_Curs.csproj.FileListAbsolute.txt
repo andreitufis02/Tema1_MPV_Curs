@@ -1,0 +1,17 @@
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\Tema2_MPV_Curs.exe.config
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\Tema2_MPV_Curs.exe
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\Tema2_MPV_Curs.pdb
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.Form1.resources
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.exe
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.pdb
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\EPPlus.dll
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\EPPlus.xml
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Andrei\source\repos\Tema2_MPV_Curs\obj\Debug\Tema2_MPV_Curs.csproj.CopyComplete
